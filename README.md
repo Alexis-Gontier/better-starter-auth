@@ -1,1 +1,0 @@
-# better-starter-auth
